@@ -240,6 +240,8 @@ padding-left: 80px;
                 font-size: 25px;
                 font-weight: bold;
                 text-align: center;
+                font-family: emoji;
+                font-style: italic;
             }
             nav{
                 display: block;
